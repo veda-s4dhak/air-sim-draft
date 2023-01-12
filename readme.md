@@ -14,6 +14,13 @@ cd AirSim/Unreal/Environments/Blocks
 ./GenerateProjectFiles.sh /Users/Shared/Epic\ Games/UE_4.27/
 ```
 
+<h2> Start up your Simulation </h2>
+
+1) Browse to AirSim/Unreal/Environments/Blocks.
+2) Run ./GenerateProjectFiles.sh <UE_PATH> from the terminal, where UE_PATH is the path to the Unreal installation folder. (By default, this is /Users/Shared/Epic\ Games/UE_4.27/) The script creates an XCode workspace by the name Blocks.xcworkspace.
+3) Open the XCode workspace, and press the Build and run button in the top left.
+4) After Unreal Editor loads, press Play button.
+
 <h2> Install Python Dependencies </h2>
 
 1) Run the following command to install 
