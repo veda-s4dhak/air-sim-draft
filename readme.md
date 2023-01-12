@@ -10,15 +10,6 @@ git clone https://github.com/Microsoft/AirSim.git
 cd AirSim
 ./setup.sh
 ./build.sh
-```
-
-3) Generate shared wrapper libraries
-
-```
-cd AirSim/Unity
-./build.sh
-```
-
 cd AirSim/Unreal/Environments/Blocks
 ./GenerateProjectFiles.sh /Users/Shared/Epic\ Games/UE_4.27/
 ```
