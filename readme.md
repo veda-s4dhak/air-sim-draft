@@ -14,6 +14,14 @@ cd AirSim/Unreal/Environments/Blocks
 ./GenerateProjectFiles.sh /Users/Shared/Epic\ Games/UE_4.27/
 ```
 
+<h2> Select your XCode Command Line Tools Directory </h2>
+
+1) Run the following command to set the command line tools directory
+
+```
+sudo xcode-select -s /Library/Developer/CommandLineTools
+```
+
 <h2> Start up your Simulation </h2>
 
 1) Browse to AirSim/Unreal/Environments/Blocks.
