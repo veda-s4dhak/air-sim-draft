@@ -73,8 +73,8 @@ Note: Unreal 4.27 will auto-generate the .sln file targetting Visual Studio 2019
 3) After Unreal Editor loads, press Play button.
 
 <h2>Downloading the Simulation using Pre-Built Binaries</h2>
-1. Visit this link : https://github.com/Microsoft/AirSim/releases
-2. Download and run the exe file.
+1) Visit this link : https://github.com/Microsoft/AirSim/releases
+2) Download and run the exe file.
 
 > Note : These binaries will only run on Windows.
 
